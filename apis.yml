@@ -1,7 +1,27 @@
 aid: myndlift
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/myndlift.png
 name: Myndlift
-description: Myndlift is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Myndlift is a digital neurofeedback and mental-health company that pairs a consumer/clinical
+  mobile app with a wearable EEG brain-sensing headband (Muse) to deliver therapist-guided,
+  personalized brain-training programs. The platform provides brain mapping and assessments,
+  gamified real-time neurofeedback sessions, progress tracking, and remote-monitoring dashboards
+  used by both individuals and mental-health practitioners for attention, anxiety, stress, sleep,
+  and peak-performance goals. Backed by 500 Global, the company reports 26,000+ members and more
+  than one million neurofeedback sessions delivered. No public developer API, SDK, or developer
+  portal is currently published; this profile is maintained in the API Evangelist network as a
+  company record with verified identity links.
 url: https://raw.githubusercontent.com/api-evangelist/myndlift/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Neurofeedback
+- Mental Health
+- Digital Health
+- EEG
+- Brain Training
+- Wearables
+- Telehealth
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +50,18 @@ maintainers:
 common:
 - type: Website
   url: https://myndlift.com
+- type: SignUp
+  url: https://signup.myndlift.com/
+- type: Blog
+  url: https://myndlift.com/blog
+- type: PrivacyPolicy
+  url: https://myndlift.com/privacy-notice
+- type: TermsOfService
+  url: https://myndlift.com/terms-of-service-individuals
+- type: DomainSecurity
+  url: security/myndlift-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
