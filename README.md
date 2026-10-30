@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Myndlift is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Myndlift is a digital neurofeedback and mental-health company that pairs a consumer/clinical mobile app with a wearable EEG brain-sensing headband (Muse) to deliver therapist-guided, personalized brain-training programs. The platform provides brain mapping and assessments, gamified real-time neurofeedback sessions, progress tracking, and remote-monitoring dashboards used by both individuals and mental-health practitioners for attention, anxiety, stress, sleep, and peak-performance goals. Backed by 500 Global, the company reports 26,000+ members and more than one million neurofeedback sessions delivered. No public developer API, SDK, or developer portal is currently published; this profile is maintained in the API Evangelist network as a company record with verified identity links.
 
-Backed by: 500-global — https://myndlift.com
+**Areas:** Company · Neurofeedback · Mental Health · Digital Health · EEG · Brain Training · Wearables · Telehealth
+
+## Myndlift on APIs.io
+
+Everything profiled for Myndlift is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/myndlift/](https://apis.io/providers/myndlift/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Myndlift Domain Security](https://apis.io/security/myndlift/myndlift-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://myndlift.com)
+- [Sign up](https://signup.myndlift.com/)
+- [Blog](https://myndlift.com/blog)
+- [Terms of service](https://myndlift.com/terms-of-service-individuals)
+- [Privacy policy](https://myndlift.com/privacy-notice)
+
+## API Evangelist rating
+
+**Kin Score 12.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/myndlift/](https://apis.io/providers/myndlift/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Myndlift: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/myndlift/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
